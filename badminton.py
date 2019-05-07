@@ -21,8 +21,8 @@ LIMIT = '1.000'
 HOMENAME = '苏州奥林匹克体育中心'
 
 ## Personal infos
-BOOKHOLDER = '叶志彬'
-MOBILE = '15170777774'
+BOOKHOLDER = '叶子木'
+MOBILE = '15170123456'
 OPENID = 'osfFy0tch3WmLnoNJpUNIlJSyVQ0' ## Personal Key
 UNIONID = 'o3eng1FtJFC0ozvsZpuCX0Ls0TE0' ## Personal Key
 
@@ -111,8 +111,8 @@ def main():
 
     # createOrder(field5_1)
     # createOrder(field5_2)
-    createOrder(field6_1)
-    # createOrder(field6_2)
+    # createOrder(field6_1)
+    createOrder(field6_2)
 
 main()
 
